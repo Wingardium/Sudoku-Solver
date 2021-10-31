@@ -1,4 +1,4 @@
-# Sudoku-Solver
+# Sudoku Solver for Irregular Regions
 
 这是一个数独解题器，其特色在于支持「不规则九宫数独」的求解。
 
