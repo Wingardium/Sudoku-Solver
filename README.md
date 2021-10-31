@@ -6,6 +6,9 @@
 
 <img src="example.png" width="50%">
 
-后续还会进行「不规则九宫数独」的生成器开发，以及更多特殊数独的生成/解题器开发。
+后续也许还会进行如下开发：
+1. 更高效的算法；
+2. 「不规则九宫数独」的生成器；
+3. 更多特殊数独的生成/解题器。
 
-参考：https://www.cnblogs.com/grenet/p/3138654.html。
+参考：https://www.cnblogs.com/grenet/p/3138654.html
